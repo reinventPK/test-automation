@@ -1,0 +1,55 @@
+{
+	"newusers": [
+		{
+			"lastName": "Black",
+			"otherInfo": "Test other Info",
+			"address2": "Test Address1000",
+			"city": "Qwerty",
+			"address1": "Test Address100",
+			"phoneMobile": "9876543210",
+			"postalCode": "12345",
+			"birthDate": "1-1-2000",
+			"firstName": "Joe",
+			"password": "password@100",
+			"phone": "1234567890",
+			"alias": "testalias100.com",
+			"company": "HelloFresh",
+			"state": "Colorado",
+			"email": "hf_challenge_1526798378419@hf378419.com"
+		},
+		{
+			"lastName": "Foo",
+			"otherInfo": "Test other Info",
+			"address2": "Test Address10001",
+			"city": "San Jose",
+			"address1": "Test Address101",
+			"phoneMobile": "9876543210",
+			"postalCode": "12345",
+			"birthDate": "1-1-2000",
+			"firstName": "John",
+			"password": "password@101",
+			"phone": "1234567890",
+			"alias": "testalias100.com",
+			"company": "HelloFresh",
+			"state": "California",
+			"email": "hf_challenge_1526798378419@hf378419.com"
+		},
+		{
+			"lastName": "Brown",
+			"otherInfo": "Test other Info",
+			"address2": "Test Address10002",
+			"city": "Austin",
+			"address1": "Test Address102",
+			"phoneMobile": "9876543210",
+			"postalCode": "12345",
+			"birthDate": "1-1-2000",
+			"firstName": "Matt",
+			"password": "password@102",
+			"phone": "1234567890",
+			"alias": "testalias100.com",
+			"company": "HelloFresh",
+			"state": "Texas",
+			"email": "hf_challenge_1526798378419@hf378419.com"
+		}
+	]
+}

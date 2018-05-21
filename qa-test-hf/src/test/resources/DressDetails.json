@@ -1,0 +1,34 @@
+{
+	"DressDetails": [
+		{
+			"id": "001",
+			"dressName": "Faded Short Sleeve T-shirts",
+			"color": ["White", "Pink", "Black"],
+			"size": [ "S", "M", "L", "XL", "XXL" ]
+		},
+		{
+			"id": "002",
+			"dressName": "Printed Dress",
+			"color": ["Biege", "Orange", "Black"],
+			"size": [ "S", "M", "L", "XL", "XXL" ]
+		},
+		{
+			"id": "003",
+			"dressName": "Printed Summer Dress",
+			"color": ["Pink", "Blue", "Green"],
+			"size": [ "S", "M", "L", "XL", "XXL" ]
+		},
+		{
+			"id": "004",
+			"dressName": "Blouse",
+			"color": ["Green", "Orange", "Black"],
+			"size": [ "S", "M", "L", "XL", "XXL" ]
+		},
+		{
+			"id": "005",
+			"dressName": "Printed Chiffon Dress",
+			"color": ["Green", "Blue", "Yellow"],
+			"size": [ "S", "M", "L", "XL", "XXL" ]
+		}
+	]
+}

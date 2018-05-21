@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HelloFresh Automation Suite">
+ <test verbose="1" name="Authentication">
+    <classes>
+      <class name="com.hellofresh.authenticationtests.AuthenticationTests"/>
+    </classes>
+  </test>
+  <test verbose="1" name="OrderCheckOut">
+    <classes>
+       <class name="com.hellofresh.ordercheckout.OrderCheckOutTests"/>
+    </classes>
+  </test>
+</suite>
